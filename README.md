@@ -11,6 +11,6 @@
 
 - 📫  How to reach me **antoinechevalier@protonmail.com**
 
-- 📄  Know about my experiences : I'm a passionate Developer currently working on the Full Stack field with React and Django, i love to build creative and complex project of any size. Mixing Complexity and Beauty.
+- 📄  Know about my experiences : I'm a passionate Developer currently working on the Full Stack field with React and Django, i love to building creative and complex project of any size. Mixing Complexity and Beauty.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyboo&show_icons=true&locale=en" alt="seyboo" /></p>
