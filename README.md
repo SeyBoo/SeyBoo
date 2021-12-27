@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on [feedback-app](https://github.com/SeyBoo/product-feedback-app)
 
-- 🌱  I’m currently learning **typescript/react-native**
+- 🌱  I’m currently learning **react-native**
 
 - 👯  I’m looking to collaborate on **twitter-clone-app**
 
