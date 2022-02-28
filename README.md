@@ -3,7 +3,7 @@
 
 - 🌱  I’m currently learning **react-native**
 
-- 👨‍💻  You can see my portfolio [http://sey-off.eu/](sey-off.eu)
+- 👨‍💻  You can see my portfolio [sey-off.eu](http://sey-off.eu/)
 
 - 📫  How to reach me **antoinechevalier@protonmail.com**
 
