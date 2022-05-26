@@ -9,4 +9,4 @@
 
 - 📄  Know about my experiences : I love to make ambitious project. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyboo&show_icons=true&locale=en" alt="seyboo" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SetBoo)](https://github.com/anuraghazra/github-readme-stats)
