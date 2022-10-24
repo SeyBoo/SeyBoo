@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm antoine</h1>
 <h3 align="center">I'm passionate about creating and learning new stuff.</h3>
 
-- 🌱  I’m currently learning **Maching Learning**
+- 🌱  I’m currently learning **Django**
 
 - 👨‍💻  You can see my portfolio [sey-off.eu](http://sey-off.eu/)
 
