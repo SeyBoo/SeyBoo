@@ -3,7 +3,7 @@
 
 - 🌱  I’m currently learning **Django**
 
-- 👨‍💻  You can see my portfolio [sey-off.eu](http://sey-off.eu/)
+- 👨‍💻  You can see my portfolio [antoinechevalier.me](https://antoinechevalier.me/)
 
 - 📫  How to reach me **antoinechevalier.work@protonmail.com**
 
